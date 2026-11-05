@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 500" font-family="Helvetica">
+<rect width="940" height="500" fill="white"/>
+<rect x="164" y="58" width="122" height="310" fill="#f4f6f8" rx="10"/>
+<text x="225" y="46" font-size="15" fill="#555" text-anchor="middle">layer 1</text>
+<rect x="314" y="58" width="122" height="310" fill="#f4f6f8" rx="10"/>
+<text x="375" y="46" font-size="15" fill="#555" text-anchor="middle">layer 2</text>
+<rect x="464" y="58" width="122" height="310" fill="#f4f6f8" rx="10"/>
+<text x="525" y="46" font-size="15" fill="#555" text-anchor="middle">layer 3</text>
+<rect x="614" y="58" width="122" height="310" fill="#f4f6f8" rx="10"/>
+<text x="675" y="46" font-size="15" fill="#555" text-anchor="middle">layer 4</text>
+<rect x="764" y="58" width="122" height="310" fill="#f4f6f8" rx="10"/>
+<text x="825" y="46" font-size="15" fill="#555" text-anchor="middle">layer T</text>
+<line x1="106" y1="92" x2="910" y2="92" stroke="#333" stroke-width="1.4"/>
+<text x="76" y="97" font-size="15" fill="#222">q1</text>
+<line x1="106" y1="154" x2="910" y2="154" stroke="#333" stroke-width="1.4"/>
+<text x="76" y="159" font-size="15" fill="#222">q2</text>
+<line x1="106" y1="216" x2="910" y2="216" stroke="#333" stroke-width="1.4"/>
+<text x="76" y="221" font-size="15" fill="#222">q3</text>
+<line x1="106" y1="278" x2="910" y2="278" stroke="#333" stroke-width="1.4"/>
+<text x="76" y="283" font-size="15" fill="#222">q4</text>
+<line x1="106" y1="340" x2="910" y2="340" stroke="#333" stroke-width="1.4"/>
+<text x="76" y="345" font-size="15" fill="#222">q5</text>
+<line x1="203" y1="92" x2="203" y2="216" stroke="#2265ae" stroke-width="2"/>
+<circle cx="203" cy="92" r="5" fill="#2265ae" stroke="#2265ae" stroke-width="2"/>
+<circle cx="203" cy="216" r="9" fill="white" stroke="#2265ae" stroke-width="2"/>
+<line x1="194" y1="216" x2="212" y2="216" stroke="#2265ae" stroke-width="2"/>
+<line x1="203" y1="207" x2="203" y2="225" stroke="#2265ae" stroke-width="2"/>
+<line x1="247" y1="278" x2="247" y2="340" stroke="#9aa2ab" stroke-width="2" stroke-dasharray="5 4"/>
+<circle cx="247" cy="278" r="5" fill="white" stroke="#9aa2ab" stroke-width="2" stroke-dasharray="5 4"/>
+<circle cx="247" cy="340" r="9" fill="white" stroke="#9aa2ab" stroke-width="2" stroke-dasharray="5 4"/>
+<line x1="238" y1="340" x2="256" y2="340" stroke="#9aa2ab" stroke-width="2" stroke-dasharray="5 4"/>
+<line x1="247" y1="331" x2="247" y2="349" stroke="#9aa2ab" stroke-width="2" stroke-dasharray="5 4"/>
+<line x1="353" y1="154" x2="353" y2="278" stroke="#2265ae" stroke-width="2"/>
+<circle cx="353" cy="154" r="5" fill="#2265ae" stroke="#2265ae" stroke-width="2"/>
+<circle cx="353" cy="278" r="9" fill="white" stroke="#2265ae" stroke-width="2"/>
+<line x1="344" y1="278" x2="362" y2="278" stroke="#2265ae" stroke-width="2"/>
+<line x1="353" y1="269" x2="353" y2="287" stroke="#2265ae" stroke-width="2"/>
+<line x1="399" y1="92" x2="399" y2="154" stroke="#9aa2ab" stroke-width="2" stroke-dasharray="5 4"/>
+<circle cx="399" cy="92" r="5" fill="white" stroke="#9aa2ab" stroke-width="2" stroke-dasharray="5 4"/>
+<circle cx="399" cy="154" r="9" fill="white" stroke="#9aa2ab" stroke-width="2" stroke-dasharray="5 4"/>
+<line x1="390" y1="154" x2="408" y2="154" stroke="#9aa2ab" stroke-width="2" stroke-dasharray="5 4"/>
+<line x1="399" y1="145" x2="399" y2="163" stroke="#9aa2ab" stroke-width="2" stroke-dasharray="5 4"/>
+<line x1="390" y1="114" x2="408" y2="132" stroke="#c0392b" stroke-width="2.4"/>
+<line x1="390" y1="132" x2="408" y2="114" stroke="#c0392b" stroke-width="2.4"/>
+<line x1="525" y1="154" x2="525" y2="340" stroke="#d9871c" stroke-width="2" stroke-dasharray="5 4"/>
+<circle cx="525" cy="154" r="5" fill="white" stroke="#d9871c" stroke-width="2" stroke-dasharray="5 4"/>
+<circle cx="525" cy="340" r="9" fill="white" stroke="#d9871c" stroke-width="2" stroke-dasharray="5 4"/>
+<line x1="516" y1="340" x2="534" y2="340" stroke="#d9871c" stroke-width="2" stroke-dasharray="5 4"/>
+<line x1="525" y1="331" x2="525" y2="349" stroke="#d9871c" stroke-width="2" stroke-dasharray="5 4"/>
+<text x="540" y="252" font-size="17" font-weight="700" fill="#d9871c">?</text>
+<line x1="653" y1="92" x2="653" y2="154" stroke="#2265ae" stroke-width="2"/>
+<circle cx="653" cy="92" r="5" fill="#2265ae" stroke="#2265ae" stroke-width="2"/>
+<circle cx="653" cy="154" r="9" fill="white" stroke="#2265ae" stroke-width="2"/>
+<line x1="644" y1="154" x2="662" y2="154" stroke="#2265ae" stroke-width="2"/>
+<line x1="653" y1="145" x2="653" y2="163" stroke="#2265ae" stroke-width="2"/>
+<line x1="697" y1="216" x2="697" y2="278" stroke="#2265ae" stroke-width="2"/>
+<circle cx="697" cy="216" r="5" fill="#2265ae" stroke="#2265ae" stroke-width="2"/>
+<circle cx="697" cy="278" r="9" fill="white" stroke="#2265ae" stroke-width="2"/>
+<line x1="688" y1="278" x2="706" y2="278" stroke="#2265ae" stroke-width="2"/>
+<line x1="697" y1="269" x2="697" y2="287" stroke="#2265ae" stroke-width="2"/>
+<line x1="803" y1="92" x2="803" y2="278" stroke="#9aa2ab" stroke-width="2" stroke-dasharray="5 4"/>
+<circle cx="803" cy="92" r="5" fill="white" stroke="#9aa2ab" stroke-width="2" stroke-dasharray="5 4"/>
+<circle cx="803" cy="278" r="9" fill="white" stroke="#9aa2ab" stroke-width="2" stroke-dasharray="5 4"/>
+<line x1="794" y1="278" x2="812" y2="278" stroke="#9aa2ab" stroke-width="2" stroke-dasharray="5 4"/>
+<line x1="803" y1="269" x2="803" y2="287" stroke="#9aa2ab" stroke-width="2" stroke-dasharray="5 4"/>
+<line x1="847" y1="216" x2="847" y2="340" stroke="#9aa2ab" stroke-width="2" stroke-dasharray="5 4"/>
+<circle cx="847" cy="216" r="5" fill="white" stroke="#9aa2ab" stroke-width="2" stroke-dasharray="5 4"/>
+<circle cx="847" cy="340" r="9" fill="white" stroke="#9aa2ab" stroke-width="2" stroke-dasharray="5 4"/>
+<line x1="838" y1="340" x2="856" y2="340" stroke="#9aa2ab" stroke-width="2" stroke-dasharray="5 4"/>
+<line x1="847" y1="331" x2="847" y2="349" stroke="#9aa2ab" stroke-width="2" stroke-dasharray="5 4"/>
+<line x1="106" y1="396" x2="122" y2="396" stroke="#2265ae" stroke-width="2.6"/>
+<text x="130" y="401" font-size="13.5" fill="#333">gate selected  (variable = true)</text>
+<line x1="476" y1="396" x2="492" y2="396" stroke="#9aa2ab" stroke-width="2.6" stroke-dasharray="5 4"/>
+<text x="500" y="401" font-size="13.5" fill="#333">candidate, not selected  (variable = false)</text>
+<line x1="106" y1="424" x2="122" y2="424" stroke="#d9871c" stroke-width="2.6" stroke-dasharray="5 4"/>
+<text x="130" y="429" font-size="13.5" fill="#333">solver deciding</text>
+<line x1="476" y1="417" x2="490" y2="431" stroke="#c0392b" stroke-width="2.4"/>
+<line x1="476" y1="431" x2="490" y2="417" stroke="#c0392b" stroke-width="2.4"/>
+<text x="500" y="429" font-size="13.5" fill="#333">forbidden: wire already busy this layer</text>
+</svg>

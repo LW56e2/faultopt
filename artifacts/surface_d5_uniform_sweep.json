@@ -1,0 +1,1634 @@
+[
+ {
+  "sched_z": [
+   "NW",
+   "NE",
+   "SW",
+   "SE"
+  ],
+  "sched_x": [
+   "NW",
+   "NE",
+   "SW",
+   "SE"
+  ],
+  "d_z": 5,
+  "d_x": 3,
+  "d_eff": 3
+ },
+ {
+  "sched_z": [
+   "NW",
+   "NE",
+   "SW",
+   "SE"
+  ],
+  "sched_x": [
+   "NW",
+   "SW",
+   "NE",
+   "SE"
+  ],
+  "d_z": 3,
+  "d_x": 3,
+  "d_eff": 3
+ },
+ {
+  "sched_z": [
+   "NW",
+   "NE",
+   "SW",
+   "SE"
+  ],
+  "sched_x": [
+   "SE",
+   "NE",
+   "SW",
+   "NW"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "NW",
+   "NE",
+   "SW",
+   "SE"
+  ],
+  "sched_x": [
+   "SE",
+   "SW",
+   "NE",
+   "NW"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "NW",
+   "NE",
+   "SE",
+   "SW"
+  ],
+  "sched_x": [
+   "NW",
+   "NE",
+   "SE",
+   "SW"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "NW",
+   "NE",
+   "SE",
+   "SW"
+  ],
+  "sched_x": [
+   "NW",
+   "SW",
+   "SE",
+   "NE"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "NW",
+   "NE",
+   "SE",
+   "SW"
+  ],
+  "sched_x": [
+   "SE",
+   "NE",
+   "NW",
+   "SW"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "NW",
+   "NE",
+   "SE",
+   "SW"
+  ],
+  "sched_x": [
+   "SE",
+   "SW",
+   "NW",
+   "NE"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "NW",
+   "SW",
+   "NE",
+   "SE"
+  ],
+  "sched_x": [
+   "NW",
+   "NE",
+   "SW",
+   "SE"
+  ],
+  "d_z": 5,
+  "d_x": 5,
+  "d_eff": 5
+ },
+ {
+  "sched_z": [
+   "NW",
+   "SW",
+   "NE",
+   "SE"
+  ],
+  "sched_x": [
+   "NW",
+   "SW",
+   "NE",
+   "SE"
+  ],
+  "d_z": 3,
+  "d_x": 5,
+  "d_eff": 3
+ },
+ {
+  "sched_z": [
+   "NW",
+   "SW",
+   "NE",
+   "SE"
+  ],
+  "sched_x": [
+   "SE",
+   "NE",
+   "SW",
+   "NW"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "NW",
+   "SW",
+   "NE",
+   "SE"
+  ],
+  "sched_x": [
+   "SE",
+   "SW",
+   "NE",
+   "NW"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "NW",
+   "SW",
+   "SE",
+   "NE"
+  ],
+  "sched_x": [
+   "NW",
+   "NE",
+   "SE",
+   "SW"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "NW",
+   "SW",
+   "SE",
+   "NE"
+  ],
+  "sched_x": [
+   "NW",
+   "SW",
+   "SE",
+   "NE"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "NW",
+   "SW",
+   "SE",
+   "NE"
+  ],
+  "sched_x": [
+   "SE",
+   "NE",
+   "NW",
+   "SW"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "NW",
+   "SW",
+   "SE",
+   "NE"
+  ],
+  "sched_x": [
+   "SE",
+   "SW",
+   "NW",
+   "NE"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "NW",
+   "SE",
+   "NE",
+   "SW"
+  ],
+  "sched_x": [
+   "NW",
+   "SE",
+   "NE",
+   "SW"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "NW",
+   "SE",
+   "NE",
+   "SW"
+  ],
+  "sched_x": [
+   "NW",
+   "SE",
+   "SW",
+   "NE"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "NW",
+   "SE",
+   "NE",
+   "SW"
+  ],
+  "sched_x": [
+   "SE",
+   "NW",
+   "NE",
+   "SW"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "NW",
+   "SE",
+   "NE",
+   "SW"
+  ],
+  "sched_x": [
+   "SE",
+   "NW",
+   "SW",
+   "NE"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "NW",
+   "SE",
+   "SW",
+   "NE"
+  ],
+  "sched_x": [
+   "NW",
+   "SE",
+   "NE",
+   "SW"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "NW",
+   "SE",
+   "SW",
+   "NE"
+  ],
+  "sched_x": [
+   "NW",
+   "SE",
+   "SW",
+   "NE"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "NW",
+   "SE",
+   "SW",
+   "NE"
+  ],
+  "sched_x": [
+   "SE",
+   "NW",
+   "NE",
+   "SW"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "NW",
+   "SE",
+   "SW",
+   "NE"
+  ],
+  "sched_x": [
+   "SE",
+   "NW",
+   "SW",
+   "NE"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "NE",
+   "NW",
+   "SW",
+   "SE"
+  ],
+  "sched_x": [
+   "NE",
+   "NW",
+   "SW",
+   "SE"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "NE",
+   "NW",
+   "SW",
+   "SE"
+  ],
+  "sched_x": [
+   "NE",
+   "SE",
+   "SW",
+   "NW"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "NE",
+   "NW",
+   "SW",
+   "SE"
+  ],
+  "sched_x": [
+   "SW",
+   "NW",
+   "NE",
+   "SE"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "NE",
+   "NW",
+   "SW",
+   "SE"
+  ],
+  "sched_x": [
+   "SW",
+   "SE",
+   "NE",
+   "NW"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "NE",
+   "NW",
+   "SE",
+   "SW"
+  ],
+  "sched_x": [
+   "NE",
+   "NW",
+   "SE",
+   "SW"
+  ],
+  "d_z": 5,
+  "d_x": 3,
+  "d_eff": 3
+ },
+ {
+  "sched_z": [
+   "NE",
+   "NW",
+   "SE",
+   "SW"
+  ],
+  "sched_x": [
+   "NE",
+   "SE",
+   "NW",
+   "SW"
+  ],
+  "d_z": 3,
+  "d_x": 3,
+  "d_eff": 3
+ },
+ {
+  "sched_z": [
+   "NE",
+   "NW",
+   "SE",
+   "SW"
+  ],
+  "sched_x": [
+   "SW",
+   "NW",
+   "SE",
+   "NE"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "NE",
+   "NW",
+   "SE",
+   "SW"
+  ],
+  "sched_x": [
+   "SW",
+   "SE",
+   "NW",
+   "NE"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "NE",
+   "SW",
+   "NW",
+   "SE"
+  ],
+  "sched_x": [
+   "NE",
+   "SW",
+   "NW",
+   "SE"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "NE",
+   "SW",
+   "NW",
+   "SE"
+  ],
+  "sched_x": [
+   "NE",
+   "SW",
+   "SE",
+   "NW"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "NE",
+   "SW",
+   "NW",
+   "SE"
+  ],
+  "sched_x": [
+   "SW",
+   "NE",
+   "NW",
+   "SE"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "NE",
+   "SW",
+   "NW",
+   "SE"
+  ],
+  "sched_x": [
+   "SW",
+   "NE",
+   "SE",
+   "NW"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "NE",
+   "SW",
+   "SE",
+   "NW"
+  ],
+  "sched_x": [
+   "NE",
+   "SW",
+   "NW",
+   "SE"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "NE",
+   "SW",
+   "SE",
+   "NW"
+  ],
+  "sched_x": [
+   "NE",
+   "SW",
+   "SE",
+   "NW"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "NE",
+   "SW",
+   "SE",
+   "NW"
+  ],
+  "sched_x": [
+   "SW",
+   "NE",
+   "NW",
+   "SE"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "NE",
+   "SW",
+   "SE",
+   "NW"
+  ],
+  "sched_x": [
+   "SW",
+   "NE",
+   "SE",
+   "NW"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "NE",
+   "SE",
+   "NW",
+   "SW"
+  ],
+  "sched_x": [
+   "NE",
+   "NW",
+   "SE",
+   "SW"
+  ],
+  "d_z": 5,
+  "d_x": 5,
+  "d_eff": 5
+ },
+ {
+  "sched_z": [
+   "NE",
+   "SE",
+   "NW",
+   "SW"
+  ],
+  "sched_x": [
+   "NE",
+   "SE",
+   "NW",
+   "SW"
+  ],
+  "d_z": 3,
+  "d_x": 5,
+  "d_eff": 3
+ },
+ {
+  "sched_z": [
+   "NE",
+   "SE",
+   "NW",
+   "SW"
+  ],
+  "sched_x": [
+   "SW",
+   "NW",
+   "SE",
+   "NE"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "NE",
+   "SE",
+   "NW",
+   "SW"
+  ],
+  "sched_x": [
+   "SW",
+   "SE",
+   "NW",
+   "NE"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "NE",
+   "SE",
+   "SW",
+   "NW"
+  ],
+  "sched_x": [
+   "NE",
+   "NW",
+   "SW",
+   "SE"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "NE",
+   "SE",
+   "SW",
+   "NW"
+  ],
+  "sched_x": [
+   "NE",
+   "SE",
+   "SW",
+   "NW"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "NE",
+   "SE",
+   "SW",
+   "NW"
+  ],
+  "sched_x": [
+   "SW",
+   "NW",
+   "NE",
+   "SE"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "NE",
+   "SE",
+   "SW",
+   "NW"
+  ],
+  "sched_x": [
+   "SW",
+   "SE",
+   "NE",
+   "NW"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "SW",
+   "NW",
+   "NE",
+   "SE"
+  ],
+  "sched_x": [
+   "NE",
+   "NW",
+   "SW",
+   "SE"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "SW",
+   "NW",
+   "NE",
+   "SE"
+  ],
+  "sched_x": [
+   "NE",
+   "SE",
+   "SW",
+   "NW"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "SW",
+   "NW",
+   "NE",
+   "SE"
+  ],
+  "sched_x": [
+   "SW",
+   "NW",
+   "NE",
+   "SE"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "SW",
+   "NW",
+   "NE",
+   "SE"
+  ],
+  "sched_x": [
+   "SW",
+   "SE",
+   "NE",
+   "NW"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "SW",
+   "NW",
+   "SE",
+   "NE"
+  ],
+  "sched_x": [
+   "NE",
+   "NW",
+   "SE",
+   "SW"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "SW",
+   "NW",
+   "SE",
+   "NE"
+  ],
+  "sched_x": [
+   "NE",
+   "SE",
+   "NW",
+   "SW"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "SW",
+   "NW",
+   "SE",
+   "NE"
+  ],
+  "sched_x": [
+   "SW",
+   "NW",
+   "SE",
+   "NE"
+  ],
+  "d_z": 3,
+  "d_x": 5,
+  "d_eff": 3
+ },
+ {
+  "sched_z": [
+   "SW",
+   "NW",
+   "SE",
+   "NE"
+  ],
+  "sched_x": [
+   "SW",
+   "SE",
+   "NW",
+   "NE"
+  ],
+  "d_z": 5,
+  "d_x": 5,
+  "d_eff": 5
+ },
+ {
+  "sched_z": [
+   "SW",
+   "NE",
+   "NW",
+   "SE"
+  ],
+  "sched_x": [
+   "NE",
+   "SW",
+   "NW",
+   "SE"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "SW",
+   "NE",
+   "NW",
+   "SE"
+  ],
+  "sched_x": [
+   "NE",
+   "SW",
+   "SE",
+   "NW"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "SW",
+   "NE",
+   "NW",
+   "SE"
+  ],
+  "sched_x": [
+   "SW",
+   "NE",
+   "NW",
+   "SE"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "SW",
+   "NE",
+   "NW",
+   "SE"
+  ],
+  "sched_x": [
+   "SW",
+   "NE",
+   "SE",
+   "NW"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "SW",
+   "NE",
+   "SE",
+   "NW"
+  ],
+  "sched_x": [
+   "NE",
+   "SW",
+   "NW",
+   "SE"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "SW",
+   "NE",
+   "SE",
+   "NW"
+  ],
+  "sched_x": [
+   "NE",
+   "SW",
+   "SE",
+   "NW"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "SW",
+   "NE",
+   "SE",
+   "NW"
+  ],
+  "sched_x": [
+   "SW",
+   "NE",
+   "NW",
+   "SE"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "SW",
+   "NE",
+   "SE",
+   "NW"
+  ],
+  "sched_x": [
+   "SW",
+   "NE",
+   "SE",
+   "NW"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "SW",
+   "SE",
+   "NW",
+   "NE"
+  ],
+  "sched_x": [
+   "NE",
+   "NW",
+   "SE",
+   "SW"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "SW",
+   "SE",
+   "NW",
+   "NE"
+  ],
+  "sched_x": [
+   "NE",
+   "SE",
+   "NW",
+   "SW"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "SW",
+   "SE",
+   "NW",
+   "NE"
+  ],
+  "sched_x": [
+   "SW",
+   "NW",
+   "SE",
+   "NE"
+  ],
+  "d_z": 3,
+  "d_x": 3,
+  "d_eff": 3
+ },
+ {
+  "sched_z": [
+   "SW",
+   "SE",
+   "NW",
+   "NE"
+  ],
+  "sched_x": [
+   "SW",
+   "SE",
+   "NW",
+   "NE"
+  ],
+  "d_z": 5,
+  "d_x": 3,
+  "d_eff": 3
+ },
+ {
+  "sched_z": [
+   "SW",
+   "SE",
+   "NE",
+   "NW"
+  ],
+  "sched_x": [
+   "NE",
+   "NW",
+   "SW",
+   "SE"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "SW",
+   "SE",
+   "NE",
+   "NW"
+  ],
+  "sched_x": [
+   "NE",
+   "SE",
+   "SW",
+   "NW"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "SW",
+   "SE",
+   "NE",
+   "NW"
+  ],
+  "sched_x": [
+   "SW",
+   "NW",
+   "NE",
+   "SE"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "SW",
+   "SE",
+   "NE",
+   "NW"
+  ],
+  "sched_x": [
+   "SW",
+   "SE",
+   "NE",
+   "NW"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "SE",
+   "NW",
+   "NE",
+   "SW"
+  ],
+  "sched_x": [
+   "NW",
+   "SE",
+   "NE",
+   "SW"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "SE",
+   "NW",
+   "NE",
+   "SW"
+  ],
+  "sched_x": [
+   "NW",
+   "SE",
+   "SW",
+   "NE"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "SE",
+   "NW",
+   "NE",
+   "SW"
+  ],
+  "sched_x": [
+   "SE",
+   "NW",
+   "NE",
+   "SW"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "SE",
+   "NW",
+   "NE",
+   "SW"
+  ],
+  "sched_x": [
+   "SE",
+   "NW",
+   "SW",
+   "NE"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "SE",
+   "NW",
+   "SW",
+   "NE"
+  ],
+  "sched_x": [
+   "NW",
+   "SE",
+   "NE",
+   "SW"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "SE",
+   "NW",
+   "SW",
+   "NE"
+  ],
+  "sched_x": [
+   "NW",
+   "SE",
+   "SW",
+   "NE"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "SE",
+   "NW",
+   "SW",
+   "NE"
+  ],
+  "sched_x": [
+   "SE",
+   "NW",
+   "NE",
+   "SW"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "SE",
+   "NW",
+   "SW",
+   "NE"
+  ],
+  "sched_x": [
+   "SE",
+   "NW",
+   "SW",
+   "NE"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "SE",
+   "NE",
+   "NW",
+   "SW"
+  ],
+  "sched_x": [
+   "NW",
+   "NE",
+   "SE",
+   "SW"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "SE",
+   "NE",
+   "NW",
+   "SW"
+  ],
+  "sched_x": [
+   "NW",
+   "SW",
+   "SE",
+   "NE"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "SE",
+   "NE",
+   "NW",
+   "SW"
+  ],
+  "sched_x": [
+   "SE",
+   "NE",
+   "NW",
+   "SW"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "SE",
+   "NE",
+   "NW",
+   "SW"
+  ],
+  "sched_x": [
+   "SE",
+   "SW",
+   "NW",
+   "NE"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "SE",
+   "NE",
+   "SW",
+   "NW"
+  ],
+  "sched_x": [
+   "NW",
+   "NE",
+   "SW",
+   "SE"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "SE",
+   "NE",
+   "SW",
+   "NW"
+  ],
+  "sched_x": [
+   "NW",
+   "SW",
+   "NE",
+   "SE"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "SE",
+   "NE",
+   "SW",
+   "NW"
+  ],
+  "sched_x": [
+   "SE",
+   "NE",
+   "SW",
+   "NW"
+  ],
+  "d_z": 3,
+  "d_x": 5,
+  "d_eff": 3
+ },
+ {
+  "sched_z": [
+   "SE",
+   "NE",
+   "SW",
+   "NW"
+  ],
+  "sched_x": [
+   "SE",
+   "SW",
+   "NE",
+   "NW"
+  ],
+  "d_z": 5,
+  "d_x": 5,
+  "d_eff": 5
+ },
+ {
+  "sched_z": [
+   "SE",
+   "SW",
+   "NW",
+   "NE"
+  ],
+  "sched_x": [
+   "NW",
+   "NE",
+   "SE",
+   "SW"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "SE",
+   "SW",
+   "NW",
+   "NE"
+  ],
+  "sched_x": [
+   "NW",
+   "SW",
+   "SE",
+   "NE"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "SE",
+   "SW",
+   "NW",
+   "NE"
+  ],
+  "sched_x": [
+   "SE",
+   "NE",
+   "NW",
+   "SW"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "SE",
+   "SW",
+   "NW",
+   "NE"
+  ],
+  "sched_x": [
+   "SE",
+   "SW",
+   "NW",
+   "NE"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "SE",
+   "SW",
+   "NE",
+   "NW"
+  ],
+  "sched_x": [
+   "NW",
+   "NE",
+   "SW",
+   "SE"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "SE",
+   "SW",
+   "NE",
+   "NW"
+  ],
+  "sched_x": [
+   "NW",
+   "SW",
+   "NE",
+   "SE"
+  ],
+  "d_z": null,
+  "d_x": null,
+  "d_eff": null
+ },
+ {
+  "sched_z": [
+   "SE",
+   "SW",
+   "NE",
+   "NW"
+  ],
+  "sched_x": [
+   "SE",
+   "NE",
+   "SW",
+   "NW"
+  ],
+  "d_z": 3,
+  "d_x": 3,
+  "d_eff": 3
+ },
+ {
+  "sched_z": [
+   "SE",
+   "SW",
+   "NE",
+   "NW"
+  ],
+  "sched_x": [
+   "SE",
+   "SW",
+   "NE",
+   "NW"
+  ],
+  "d_z": 5,
+  "d_x": 3,
+  "d_eff": 3
+ }
+]

@@ -1,0 +1,6 @@
+# Direct runtime/test versions used for the local CPU regression checks.
+# Use: python -m pip install -e ".[dev]" -c requirements-repro.txt
+numpy==2.5.1
+stim==1.16.0
+z3-solver==4.16.0.0
+pytest==9.1.1

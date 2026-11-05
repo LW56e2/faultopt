@@ -1,0 +1,28 @@
+name: Tests
+
+on: [push, pull_request]
+
+permissions:
+  contents: read
+
+jobs:
+  cpu:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    strategy:
+      fail-fast: false
+      matrix:
+        python-version: ["3.12", "3.13"]
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v7
+        with:
+          python-version: ${{ matrix.python-version }}
+          cache: pip
+          cache-dependency-path: requirements-repro.txt
+      - run: python -m pip install -e ".[dev]" -c requirements-repro.txt
+      - run: python -m pytest
+      - run: fto describe --code steane
+      - run: python scripts/verify_memory.py --code steane --circuit artifacts/steane_t6_winner.json --rounds 3 --cutoff 4 --stim

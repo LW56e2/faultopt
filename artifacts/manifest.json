@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "artifacts": [
+    {
+      "file": "bb72_cegis_winners.json",
+      "source_file": "bb72_cegis_winners.json",
+      "sha256": "d772ee0596623459ff1fa85d429d8cb0e8f95a58c23fc529ec7a9cb0619a4280"
+    },
+    {
+      "file": "bb72_t7_tied_d4.json",
+      "source_file": "bb72_t7_tied_d4.json",
+      "sha256": "bf7a396cde03e39364cc51997779f868f0cff8ab1ff072a30efd3fdccb07887b"
+    },
+    {
+      "file": "gross_T6_split2.json",
+      "source_file": "gross_T6_split2.json",
+      "sha256": "2131f4e04124f7f235c2eacb9057da813557ebfc1c98e1d09a3a9b076f382157"
+    },
+    {
+      "file": "gross_T6_split3.json",
+      "source_file": "gross_T6_split3.json",
+      "sha256": "2131f4e04124f7f235c2eacb9057da813557ebfc1c98e1d09a3a9b076f382157"
+    },
+    {
+      "file": "gross_T6_tied.json",
+      "source_file": "gross_T6_tied.json",
+      "sha256": "2131f4e04124f7f235c2eacb9057da813557ebfc1c98e1d09a3a9b076f382157"
+    },
+    {
+      "file": "gross_T7_tied_first.json",
+      "source_file": "gross_T7_tied_first.json",
+      "sha256": "34e47fe4b8f120bca4ac1a9018c4eb5cc4fd7ccf77af5d42951cf3c13da6d3ee"
+    },
+    {
+      "file": "gross_cegis_t5_run1.json",
+      "source_file": "gross_cegis_t5_run1.json",
+      "sha256": "561efef02a411c312bbe098e118fca3d8f47354b9d159df69dbf8168e4553d24"
+    },
+    {
+      "file": "gross_cegis_t6_gpu.json",
+      "source_file": "gross_cegis_t6_gpu.json",
+      "sha256": "8575dc5e0f56ba2fcbf74fbc9c819727ef19051913e497e7f024c8974572b187"
+    },
+    {
+      "file": "lc_cr_optimum.json",
+      "source_file": "lc_cr_optimum.json",
+      "sha256": "160d97f1b664b753313f40e5171bab5e1bf280b0b5f6d99b6263c311b5a72e40"
+    },
+    {
+      "file": "lc_mr_optimum.json",
+      "source_file": "lc_mr_optimum.json",
+      "sha256": "ddae7d94232b5bb1f60ce71a6f828847c7f13df0d495af5960f6f0c75622451a"
+    },
+    {
+      "file": "steane_t6_winner.json",
+      "source_file": "steane_t6_winner.json",
+      "sha256": "5551c146c729f925f91ec9a79ff31d054205a4023959f512765919605e57295c"
+    },
+    {
+      "file": "surface_d3_uniform_sweep.json",
+      "source_file": "results.json",
+      "sha256": "2f80b934985591d5d9f27f49b39ced56dac6c9d431fc738f6a0a662363f486d9"
+    },
+    {
+      "file": "surface_d5_uniform_sweep.json",
+      "source_file": "results_d5.json",
+      "sha256": "88eda0ba23a97b5116874b3e8b1cb1a9eb65e648f7f97f6a2d024e51f7df7b3b"
+    }
+  ]
+}
