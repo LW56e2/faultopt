@@ -109,4 +109,4 @@ that are not covered by the main CLI.
 
 ## License
 
-A release license has not yet been selected.
+Released under the [MIT License](LICENSE).
