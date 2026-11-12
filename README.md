@@ -4,8 +4,8 @@
 It combines Pauli-flow specifications, Z3 circuit generation, fault-signature
 search, and counterexample-guided inductive synthesis (CEGIS).
 
-Companion code for *Fault Tolerance as an Objective Function: Certified
-Synthesis of Syndrome-Extraction Circuits*. The principal experiments use
+The associated paper is *Fault Tolerance as an Objective Function: Certified
+Synthesis of Syndrome-Extraction Circuits* (preprint soon). The principal experiments use
 rotated surface codes, Steane, BB72, and the gross bivariate bicycle code.
 
 ## Install
